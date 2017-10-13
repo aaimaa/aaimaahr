@@ -10,6 +10,7 @@ app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "support@aaimaa.in"
 app_license = "MIT"
+fixtures = ["Custom Field", "Custom Script", "Property Setter", "Print Format"]
 
 # Includes in <head>
 # ------------------
