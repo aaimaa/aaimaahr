@@ -1,7 +1,1 @@
-## aaimaahr
 
-aaimaahr
-
-#### License
-
-MIT
