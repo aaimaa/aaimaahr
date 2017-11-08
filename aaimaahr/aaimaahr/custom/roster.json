@@ -1,0 +1,31 @@
+{
+ "custom_fields": [], 
+ "custom_perms": [], 
+ "doctype": "Roster", 
+ "property_setters": [
+  {
+   "_assign": null, 
+   "_comments": null, 
+   "_liked_by": null, 
+   "_user_tags": null, 
+   "creation": "2017-11-08 16:57:32.450149", 
+   "default_value": null, 
+   "doc_type": "Roster", 
+   "docstatus": 0, 
+   "doctype_or_field": "DocType", 
+   "field_name": null, 
+   "idx": 0, 
+   "modified": "2017-11-08 16:57:32.450149", 
+   "modified_by": "Administrator", 
+   "name": "Roster-read_only_onload", 
+   "owner": "Administrator", 
+   "parent": null, 
+   "parentfield": null, 
+   "parenttype": null, 
+   "property": "read_only_onload", 
+   "property_type": "Check", 
+   "value": null
+  }
+ ], 
+ "sync_on_migrate": 1
+}
