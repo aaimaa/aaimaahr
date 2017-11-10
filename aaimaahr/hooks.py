@@ -3,9 +3,9 @@ from __future__ import unicode_literals
 from . import __version__ as app_version
 
 app_name = "aaimaahr"
-app_title = "aaimaahr"
+app_title = "Aaimaa HR"
 app_publisher = "Aaimaa Web Solutions"
-app_description = "aaimaahr"
+app_description = "Aaimaa HR"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
 app_email = "support@aaimaa.in"

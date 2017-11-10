@@ -3,12 +3,11 @@ from __future__ import unicode_literals
 from frappe import _
 
 def get_data():
-	return [
-		{
-			"module_name": "aaimaahr",
-			"color": "grey",
-			"icon": "octicon octicon-file-directory",
-			"type": "module",
-			"label": _("aaimaahr")
-		}
-	]
+	return {
+            "Aaimaa HR": {
+                "color": "#007AFF",
+                "icon": "octicon octicon-file-directory",
+                "type": "module",
+                "label": _("Aaimaa HR")
+            }
+    }

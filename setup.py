@@ -15,7 +15,7 @@ requirements = parse_requirements("requirements.txt", session="")
 setup(
 	name='aaimaahr',
 	version=version,
-	description='aaimaahr',
+	description='Aaimaa HR',
 	author='Aaimaa Web Solutions',
 	author_email='support@aaimaa.in',
 	packages=find_packages(),
